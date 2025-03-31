@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+@import './base.css';
+
+body {
+  background: linear-gradient(to bottom right, #fee2e2, #ede9fe);
+}
